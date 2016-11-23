@@ -12,5 +12,26 @@
   <string name="network_toast">Uh-oh! This app requires an internet connection</string>
 
   <string name="adding_str">Adding %1$s to our list&#8230;</string>
+  <string name="invalid_stock_symbol">Invalid Stock Symbol</string>
+  <string name="positive_text">OK</string>
+  <string name="negative_text">Cancel</string>
+  <string name="whitespace">White Space Not Allowed</string>
+  <string name="stock_already_saved">This stock is already saved!</string>
 
+  <!-- Text displayed in empty state-->
+  <string name="no_stock_information_available">No Stock Information Available.Trying adding stocks by clicking the add symbol.</string>
+  <string name="no_internet_connection">No Stock Information Available.The network is not available to fetch stock data.</string>
+  <string name="server_down">No Stock Information Available.The server is not responding. </string>
+  <string name="server_invalid">No Stock Information Available.The server is unable to fetch stock data.</string>
+  <string name="status_key" translatable="false">status</string>
+  <string name="enable">Enable</string>
+  <string name="stockhawk" translatable="false">StockHawk</string>
+  <string name="no_stock_available">No Stock Available</string>
+  <string name="no_internet_connection_available">No Internet Connection</string>
+  <string name="error_batch_insert">Error Batch Insert</string>
+  <string name="loading">Loading</string>
+  <string name="error">Error Occurred</string>
+  <string name="value_over_time">Value Over Time</string>
+  <string name="widget" translatable="false">StockHawk</string>
+  <string name="floating_button" translatable="false">Adding Stock</string>
 </resources>
